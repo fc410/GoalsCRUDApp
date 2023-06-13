@@ -1,3 +1,2 @@
-# Goals CRUD App
-
-For this application I will be creating a full CRUD Goals app using the MERN stack and CSS/SASS for styling. The user will be able to login or create an account which will be authenticated in the server side and once logged in they can create, read, update, and or delete goals. 
+# Goals REST API
+For this project I have created a REST API for a goals app where the user can sign up and login being authenticated using Jason Web Tokens so only they can access the goals they created and edit, delete or create new goals. In the future I will be coming back and creating the front end for this app using React.js
